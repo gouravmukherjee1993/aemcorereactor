@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+node_modules
+
+dist
+node
+package-lock.json
+
